@@ -27,10 +27,12 @@ using namespace std;
 #define cf(i,s,e) for(int i=s;i<=e;i++)
 #define rf(i,e,s) for(int i=e;i>=s;i--)
 #define pb push_back
+#define bk back
 #define F first
 #define S second
 #define in cin >>
 #define out cout <<
+#define spc <<" "
 
 const int MOD = 1e9 + 7;      
 const int INF = 1e18;  
